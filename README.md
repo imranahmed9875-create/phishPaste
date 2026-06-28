@@ -1,4 +1,4 @@
-# Phish Paste
+link # Phish Paste
 Phish Paste is a tiny utility to copy templates, pages, and sending profiles between different [Gophish](https://github.com/gophish/gophish) user accounts.
 
 Example usage:
